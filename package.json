@@ -1,0 +1,24 @@
+{
+  "name": "javascript-profesional",
+  "version": "1.0.0",
+  "main": "./website/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fher333/javascript-profesional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fher333/javascript-profesional/issues"
+  },
+  "homepage": "https://github.com/fher333/javascript-profesional#readme",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
